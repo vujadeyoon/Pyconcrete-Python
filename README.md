@@ -29,7 +29,6 @@
 usrname@hostname:~/curr_path$ mkdir -p /home/usrname/pip3_virtualenv/pyconcrete
 usrname@hostname:~/curr_path$ virtualenv /home/usrname/pip3_virtualenv/pyconcrete/ --python=python3.6
 usrname@hostname:~/curr_path$ source /home/usrname/pip3_virtualenv/pyconcrete/bin/activate
-usrname@hostname:~/curr_path$ source /home/usrname/pip3_virtualenv/pyconcrete/bin/activate
 (pyconcrete) usrname@hostname:~/curr_path$
 ```
 
